@@ -1,0 +1,18 @@
+Server - 2021-04-09 23:14:55,836 - Recebimento | Tipo de mensagem: T1 | Tamanho: 14
+Server - 2021-04-09 23:14:56,909 - Envio | Tipo de mensagem: T2 | Tamanho: 14
+Server - 2021-04-09 23:14:57,519 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 1/8
+Server - 2021-04-09 23:14:57,932 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:14:59,055 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 2/8
+Server - 2021-04-09 23:14:59,369 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:00,564 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 3/8
+Server - 2021-04-09 23:15:00,877 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:02,070 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 4/8
+Server - 2021-04-09 23:15:02,847 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:04,135 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 5/8
+Server - 2021-04-09 23:15:04,700 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:06,045 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 6/8
+Server - 2021-04-09 23:15:06,398 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:07,958 - Recebimento | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 7/8
+Server - 2021-04-09 23:15:08,547 - Envio | Tipo de mensagem: T4 | Tamanho: 14
+Server - 2021-04-09 23:15:10,135 - Recebimento | Tipo de mensagem: T3 | Tamanho: 35 | Pacote: 8/8
+Server - 2021-04-09 23:15:10,667 - Envio | Tipo de mensagem: T4 | Tamanho: 14

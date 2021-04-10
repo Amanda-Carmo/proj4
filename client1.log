@@ -1,0 +1,19 @@
+CLIENT: - 2021-04-09 23:14:55,437 - Iniciando!
+CLIENT: - 2021-04-09 23:14:55,601 - Envio | Tipo de mensagem: T1 | Tamanho: 14
+CLIENT: - 2021-04-09 23:14:57,206 - Recebimento | Tipo de mensagem: T2 | Tamanho: 14
+CLIENT: - 2021-04-09 23:14:57,348 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 1 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:14:58,072 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 1 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:14:58,290 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 2 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:14:59,557 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 2 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:14:59,744 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 3 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:01,034 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 3 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:01,221 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 4 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:03,064 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 4 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:03,448 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 5 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:04,839 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 5 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:05,154 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 6 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:06,630 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 6 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:07,119 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 7 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:08,932 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 7 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:09,407 - ENvio | Tipo de mensagem: T3 | Tamanho: 128 | Pacote: 8 | Total de pacotes: 8
+CLIENT: - 2021-04-09 23:15:10,826 - Recebimento | Tipo de mensagem: T4 | Tamanho: 14 | Pacote: 8 | Total de pacotes: 8
